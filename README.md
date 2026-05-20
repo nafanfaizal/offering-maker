@@ -2,6 +2,8 @@
 
 Generator surat penawaran Discover Pangalengan berbasis HTML statis. Siap dipublish ke GitHub Pages, Netlify, Vercel, atau hosting static biasa.
 
+Tampilan sudah responsif untuk mobile dan tetap mempertahankan format A4 saat dicetak atau disimpan sebagai PDF.
+
 ## Struktur
 
 - `index.html` - struktur surat dan UI editor.
